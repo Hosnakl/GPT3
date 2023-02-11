@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GPT3/static/css/main.f14c8312.css",
+    "main.js": "/GPT3/static/js/main.0fe6fc47.js",
+    "static/media/ai.png": "/GPT3/static/media/ai.eedddbc81c22055887f1.png",
+    "static/media/Feature.png": "/GPT3/static/media/Feature.6cebd15cd7a51175b2f2.png",
+    "static/media/Group.png": "/GPT3/static/media/Group.2cfdf724680e3ce7e868.png",
+    "static/media/dropbox.png": "/GPT3/static/media/dropbox.288a70ae414f8414c0b6.png",
+    "static/media/atlassian.png": "/GPT3/static/media/atlassian.f0c85cbef5c78c7a5fe7.png",
+    "static/media/logo.svg": "/GPT3/static/media/logo.9430ccf3bed783e63dc63bdfc65ee445.svg",
+    "index.html": "/GPT3/index.html",
+    "main.f14c8312.css.map": "/GPT3/static/css/main.f14c8312.css.map",
+    "main.0fe6fc47.js.map": "/GPT3/static/js/main.0fe6fc47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f14c8312.css",
+    "static/js/main.0fe6fc47.js"
+  ]
+}
